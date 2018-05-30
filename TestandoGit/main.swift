@@ -10,3 +10,6 @@ import Foundation
 
 print("Hello, World!")
 
+var AlanVictor = "Adauto Fernandes"
+var test = 666
+
